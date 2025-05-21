@@ -1,10 +1,16 @@
-# Prak_PemrogMobile
-Praktikum Pemrograman Mobile
-Aplikasi ini adalah proyek Flutter yang berisi tiga halaman utama: **LoginScreen**, **RegisterScreen**, dan **HomeScreen**. 
+# pertemuan9
 
-- **LoginScreen** menyediakan form autentikasi dengan input email dan password, serta fitur navigasi ke halaman registrasi.
-- **RegisterScreen** memungkinkan pengguna untuk mendaftar dengan memasukkan nama, nomor telepon, email, dan password.
-- **HomeScreen** menampilkan berita utama dan daftar top stories dengan fitur pencarian serta opsi logout yang mengarahkan kembali ke halaman login.
+A new Flutter project.
 
-Struktur proyek mencakup berbagai elemen antarmuka dan navigasi, menggunakan Material Design untuk memastikan pengalaman pengguna yang optimal. Aplikasi ini dirancang untuk memberikan kemudahan dalam mengakses dan membaca berita terkini. 🚀
+## Getting Started
 
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
